@@ -1,4 +1,4 @@
 - git clone https://github.com/QuocKhanhHuynh/clouddinary.git
-- cd 
+- cd clouddinary
 - npm i
 - npm run dev
