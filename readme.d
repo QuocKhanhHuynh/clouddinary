@@ -1,0 +1,2 @@
+- clone git
+- cd 
